@@ -1,4 +1,4 @@
-choice:- write('Welcome to electives choice selection helper!'), nl ,subjects.
+choice:- write('Welcome to the Electives Helper!'), nl ,subjects.
 
 subjects:- clear_buffer, 
                   liking(cloud_computing), 
